@@ -1,19 +1,111 @@
-# :wave:  Hello, I'm VEERASIVA BANDARU
+<h1 align="center">Hi 👋, I'm Veerasiva Bandaru</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 
-## About Me
-I'm a graduate with a strong passion for IT. I’ve dedicated myself to mastering full-stack web development with the MERN stack and beyond, with a focus on building robust, scalable applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+to+Work" />
+</p>
 
-## What I’m Working On
-I’m actively developing new projects to expand my skill set, focusing on cutting-edge web solutions and preparing for professional IT roles.
+---
 
-## My Tech Proficiencies
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express, SQL, MongoDB
-- **Additional:** Python
+## 💼 Professional Summary
 
-## Projects Completed
-- Project 1: E-commerce Web App – Built with React, Node.js, SQL, and JavaScript. 
-- Project 2: Streaming Platform Clone (Netflix-like) – Developed using React and Node.js.
-- Project 3: Portfolio Website – Created using React and JavaScript, showcasing my projects, skills, and contact details.
+Entry-level **Full Stack Developer** with hands-on experience in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. Skilled in building scalable web applications, developing RESTful APIs, and designing responsive user interfaces.
 
-### Thanks for visiting! :pray:
+Strong understanding of **frontend-backend integration, authentication systems (JWT), and performance optimization**. Passionate about building user-centric applications and eager to contribute to innovative engineering teams. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Graduate (Civil Engineering) – 2024  
+- 💻 Trained in Full Stack Development (MERN)  
+- 🌱 Currently improving **React & Backend skills**  
+- 🔍 Actively seeking **Frontend / Full Stack Developer roles**  
+- ⚡ Strong in **problem solving & real-world projects**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Projects
+
+### 🔹 Jobby App (Job Search Platform)
+- Built a scalable job search platform with secure authentication  
+- Implemented **JWT authentication & protected routes**  
+- Integrated REST APIs for job search & filtering  
+- Improved UX with loading states & error handling  
+
+**Tech:** React.js, JavaScript, REST APIs, JWT  
+
+---
+
+### 🔹 E-Commerce Web Application
+- Developed full-stack e-commerce platform  
+- Implemented **cart functionality using Context API**  
+- Built secure authentication system  
+- Dynamic pricing & real-time updates  
+
+**Tech:** React.js, JavaScript, Context API, JWT  
+
+---
+
+### 🔹 Additional Projects
+- 📌 Portfolio Website  
+- 📌 Streaming Platform Clone (Netflix-like)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:veerasiva.bandaru@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ✅ MERN Full Stack Development – NxtWave  
+- ✅ NSS (National Service Scheme) Volunteer  
+
+---
+
+<p align="center">
+  ⭐️ *“Building scalable and user-friendly applications is my passion.”*
+</p>
