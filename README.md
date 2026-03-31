@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Veerasiva Bandaru</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Open+to+Work" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiva-bandaru10&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Open+to+Work" />
 </p>
 
 ---
 
 ## 💼 Professional Summary
 
-💡 Entry-level **Full Stack Developer** with hands-on experience in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
+Entry-level **Full Stack Developer** with hands-on experience in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 
-✔ Skilled in building **scalable web applications**, **RESTful APIs**, and **responsive UI designs**  
-✔ Strong understanding of **frontend-backend integration & JWT authentication**  
-✔ Passionate about developing **user-centric applications** and solving real-world problems  
+Skilled in building **scalable web applications**, **RESTful APIs**, and **responsive user interfaces**. Strong understanding of **frontend-backend integration, JWT authentication, and performance optimization**.
+
+Passionate about developing **user-centric applications** and eager to contribute to innovative engineering teams.
 
 ---
 
@@ -25,63 +21,60 @@
 
 - 🎓 B.Tech Graduate (Civil Engineering) – 2024  
 - 💻 MERN Stack Developer (NxtWave Trainee)  
-- 🌱 Currently strengthening **React & Backend Development**  
+- 🌱 Currently improving **React & Backend Development**  
 - 🔍 Actively seeking **Frontend / Full Stack Developer roles**  
-- ⚡ Focused on writing **clean, scalable code**
+- ⚡ Focused on writing clean and efficient code  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👨‍💻 Languages  
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### ⚙️ Frameworks & Libraries  
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### 🗄️ Databases  
+### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </p>
 
-### 🧰 Tools & Platforms  
+### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🔹 Jobby App (Job Search Platform)
-✨ Scalable job portal with authentication & protected routes  
-- 🔐 Implemented **JWT Authentication**  
-- 🔎 Integrated **job search & filtering APIs**  
-- ⚡ Optimized UI with loading & error handling  
-
-**Tech:** React.js, JavaScript, REST APIs, JWT  
-👉 [🔗 View Project](https://github.com/YOUR_USERNAME/project-link)
-
+- Built a scalable job search platform with secure authentication  
+- Implemented JWT authentication & protected routes  
+- Integrated REST APIs for job listing and filtering  
+  
 ---
 
 ### 🔹 E-Commerce Web Application
-🛒 Full-stack shopping platform with dynamic features  
-- 🛍️ Product listing & cart functionality  
-- 🔄 State management using **Context API**  
-- 🔐 Secure authentication system  
+- Developed a full-stack e-commerce platform  
+- Implemented cart functionality using Context API  
+- Built secure authentication system  
 
-**Tech:** React.js, JavaScript, Context API, JWT  
-👉 [🔗 View Project](https://github.com/YOUR_USERNAME/project-link)
+## 🎓 Education
 
----
+**Bachelor of Technology (B.Tech) – Civil Engineering**  
+Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid  
+2020 – 2024 | CGPA: 7.8  
 
-### 🔹 Additional Projects
-- 🌐 Portfolio Website  
-- 🎬 Streaming Platform Clone (Netflix-like)  
+## 🏆 Certifications & Activities
+
+- MERN Full Stack Development – NxtWave  
+- NSS (National Service Scheme) Volunteer  
 
 ---
 
@@ -96,7 +89,7 @@
 
 ## 🔗 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -107,13 +100,6 @@
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- 🎓 MERN Full Stack Development – NxtWave  
-- 🤝 NSS (National Service Scheme) Volunteer  
-
----
-
 <p align="center">
-  ⭐️ <b>“Building scalable, efficient, and user-friendly web applications.”</b>
+  ⭐️ <b>“Building scalable and user-friendly web applications.”</b>
 </p>
